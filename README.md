@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @Firefighter445
 - 👀 I’m interested in learning how to code
-- 🌱 I’m currently learning python
-- 💞️ I’m looking to collaborate on nothing at the moment
-- 📫 How to reach me ... don't :)
+- 🌱 I’m currently learning python, and afterwards moving on to Java and JS
+
 
 <!---
 Firefighter445/Firefighter445 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
