@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Firefighter445
+- 👋 Hi, I’m @CodedFunction
 - 👀 I’m interested in learning how to code
 - 🌱 I’m currently learning python, and afterwards moving on to Java and JS
 
